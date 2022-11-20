@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kursach_RPVS_2022", "Kursach_RPVS_2022\Kursach_RPVS_2022.csproj", "{A719B157-BB14-4B19-92C1-F71415F09242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A719B157-BB14-4B19-92C1-F71415F09242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A719B157-BB14-4B19-92C1-F71415F09242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A719B157-BB14-4B19-92C1-F71415F09242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A719B157-BB14-4B19-92C1-F71415F09242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {314C5739-EFC3-4865-9C05-C0862F364A84}
+	EndGlobalSection
+EndGlobal
